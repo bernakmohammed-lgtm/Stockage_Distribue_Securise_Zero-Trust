@@ -1,0 +1,14 @@
+com\stockage\storage\BlockManager.class
+com\stockage\client\Client.class
+com\stockage\client\Client$BlockFrame.class
+com\stockage\server\Server$StoreBlock.class
+com\stockage\client\FileEncryptor$EncryptedData.class
+com\stockage\client\MerkleDAG$Dag.class
+com\stockage\server\Server$StorageTarget.class
+com\stockage\client\FileEncryptor.class
+com\stockage\client\MerkleDAG.class
+com\stockage\storage\StorageNode.class
+com\stockage\client\MerkleDAG$Block.class
+com\stockage\client\Client$UploadInit.class
+com\stockage\server\Server.class
+com\stockage\client\Client$SimpleMsg.class
