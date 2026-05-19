@@ -146,3 +146,7 @@ src/main/java/com/stockage/
     ├── StreamUtils.java         # Utilitaires I/O réseau
     └── CryptoUtils.java         # Utilitaires crypto (RSA, SHA-256)
 ```
+
+
+## Vidéo démo
+https://drive.google.com/file/d/1_LRO7_vi469lq3Wc1CSrXEyHhDleFMk_/view?usp=sharing
